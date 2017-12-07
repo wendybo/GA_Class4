@@ -7,5 +7,9 @@ I added another line
 ***this one is bold italics wowo***  
 [wendy's linked in](https://www.linkedin.com/in/wbyang/)  
 * my favorite way to make lists!  
-  * indented bullets are even better!  
-
+  * indented bullets are even better! :+1:  
+**this one is just regular bold**
+```python
+s = "Python syntax highlighting"
+print s
+```
